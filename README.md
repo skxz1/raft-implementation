@@ -128,6 +128,4 @@ A few things worth pulling out for anyone reading the code.
 - Ongaro, D. (2014). *Consensus: Bridging Theory and Practice*. PhD thesis, Stanford University. (Chapter 4 is the Pre-Vote section.)
 - Howard, H. (2014). *ARC: Analysis of Raft Consensus*. University of Cambridge Technical Report.
 
-## Licence
 
-MIT — see `LICENSE`.
